@@ -1,0 +1,6 @@
+C:\Users\giuseppe.lillo\AppData\Local\SAP\Product Lifecycle Costing\AddIns\PlcBomImport\PlcBomImport.dll
+C:\Users\giuseppe.lillo\AppData\Local\SAP\Product Lifecycle Costing\AddIns\PlcBomImport\PlcBomImport.pdb
+C:\Users\giuseppe.lillo\source\repos\Giuseppe-Lillo\PlcBomImpor\PlcBomImport\PlcBomImport\obj\Debug\PlcBomImport.csproj.CoreCompileInputs.cache
+C:\Users\giuseppe.lillo\source\repos\Giuseppe-Lillo\PlcBomImpor\PlcBomImport\PlcBomImport\obj\Debug\PlcBomImport.dll
+C:\Users\giuseppe.lillo\source\repos\Giuseppe-Lillo\PlcBomImpor\PlcBomImport\PlcBomImport\obj\Debug\PlcBomImport.pdb
+C:\Users\giuseppe.lillo\source\repos\Giuseppe-Lillo\PlcBomImpor\PlcBomImport\PlcBomImport\obj\Debug\PlcBomImport.csproj.AssemblyReference.cache
